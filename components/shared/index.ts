@@ -1,0 +1,10 @@
+export { default as Header } from "./header";
+export { default as Hero } from "./hero";
+export { default as Features } from "./features";
+export { default as Benefits } from "./benefits";
+export { default as Enterprise } from "./enterprise";
+export { default as Testimonial } from "./testimonial";
+export { default as Pricing } from "./pricing";
+export { default as FAQ } from "./faq";
+export { default as CTA } from "./CallToAction";
+export { default as Footer } from "./footer";
